@@ -43,8 +43,6 @@ a. Description: This API will delete user object from database based on user_id 
 API url, this API is accessible only if access token is passed in header
 b. Request
 i. Request type: DELETE
-SQUARE INFOSOFT
-www.squareinfosoft.com
 ii. Query parameter: user_id
 iii. Header: Pass access token
 c. Response:
