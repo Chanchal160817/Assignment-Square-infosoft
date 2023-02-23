@@ -19,7 +19,7 @@ router.post('/users',createUser)
 router.get('/getUser',auth,getUser)
 
 //================Get User By Id=========//
-router.get('/getUserById/:id',auth,getUserById)
+router.get('/getUserById',auth,getUserById)
 
 //================Get All User=========//
 router.get('/getAllUser',auth ,getAllUser)
